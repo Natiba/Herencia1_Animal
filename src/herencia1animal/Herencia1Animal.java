@@ -12,13 +12,13 @@ public class Herencia1Animal {
         
         // Declaración del Objeto Dog:
         
-        Animal dog1 = new Dog("Stitch", "Carne", 15, "Doberman");
+        Animal dog1 = new Dog("Dogui", 200, "Stitch", "Carne", 15, "Doberman");
         //dog1.animalFeed();
         System.out.println(dog1.toString());
         
          // Declaración de otro Objeto Dog:
          
-         Animal dog2 = new Dog("Teddy", "Croquetas", 10, "Chihuahua");
+         Animal dog2 = new Dog("Alim", 400, "Teddy", "Croquetas", 10, "Chihuahua");
          //dog2.animalFeed();
          System.out.println(dog2.toString());
          
